@@ -40,7 +40,7 @@
 }
 .imgb{
     background-repeat: no-repeat;
-    background-size: 100px 100px;
+    background-size: cover;
 }
 @media (max-width: 250px) {
     #zero{
